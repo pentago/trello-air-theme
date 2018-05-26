@@ -76,3 +76,8 @@ body .button-link {
 
 #board .mod-card-detail {color: #fff!important;}
 #board .js-list:nth-child(4) .list-cards {opacity: 0.2!important;}
+
+
+.button.negate, button.negate, input[type=button].negate, input[type=submit].negate {color: #fff!important;}
+
+.card-label.mod-selectable, .card-label.mod-card-detail {color: #fff!important;}
