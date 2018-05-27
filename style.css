@@ -81,3 +81,5 @@ body .button-link {
 .button.negate, button.negate, input[type=button].negate, input[type=submit].negate {color: #fff!important;}
 
 .card-label.mod-selectable, .card-label.mod-card-detail {color: #fff!important;}
+
+.button, button, input[type=button], input[type=submit] {color: #fff!important;}
