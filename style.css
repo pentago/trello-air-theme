@@ -2,31 +2,42 @@ body * {
   color:#444!important;
   font-weight: normal!important;
 }
-
-body .body-board-view {background: #fff!important;}
-
+body .body-board-view {
+  background: #fff!important;
+}
 .body-board-view #header {
   background: #fbfbfb!important;
   border-top: 1px solid #fff!important;
   box-shadow: 0 0 0!important;
 }
-
-body .header-btn {background: transparent!important;}
-body .board-header-btn:not(.no-edit):hover {background: #f7f7f7!important;}
-
-
+body .header-btn {
+  background: transparent!important;
+}
+body .board-header-btn:not(.no-edit):hover {
+  background: #f7f7f7!important;
+}
 #board .list-wrapper {
-  width: 24.8%;!important;
+  width: 24.8%!important;
   margin: 0 1px!important;
 }
-
-body input[type=text].header-search-input {background-color: #fafafa!important;}
-body .header-logo-default {background-image: none!important;}
-
-#board .distinct-add-list {display:none!important;}
-#board .list-shadow {background-color: #f5f5f5;}
-#board .list {background: #ffffff!important;}
-#board .list-card-title {color: #000!important;}
+body input[type=text].header-search-input {
+  background-color: #fafafa!important;
+}
+body .header-logo-default {
+  background-image: none!important;
+}
+#board .distinct-add-list {
+  display:none!important;
+}
+#board .list-shadow {
+  background-color: #f5f5f5;
+}
+#board .list {
+  background: #ffffff!important;
+}
+#board .list-card-title {
+  color: #000!important;
+}
 #board .list-card {
   background-color:#fbfbfb!important;
   max-width: 100%!important;
@@ -36,51 +47,63 @@ body .header-logo-default {background-image: none!important;}
   text-align:center!important;
   color: #444!important;
 }
-
 #board .open-card-composer {
   margin: 10px auto 0!important;
   border-radius:none!important;
   max-width: auto!important;
   opacity: 0.3!important;
 }
-
 .distinct-list .open-card-composer {
-    box-shadow: 0 0 0!important;
-    text-align: center!important;
+  box-shadow: 0 0 0!important;
+  text-align: center!important;
 }
-
-
-#board .open-card-composer:hover {background: #f9f9f9!important;}
-#board .list-card-details:hover {background: #f9f9f9!important;}
-#board .list-card-operation {background-color:transparent!important;}
-#board .list-card-operation:hover {background-color:transparent!important;}
-#board .active-card:hover {background-color:#f9f9f9!important;}
-#board .card-label {color:#fff!important;}
-
-body .window {background-color: #ffffff!important;}
-
+#board .open-card-composer:hover {
+  background: #f9f9f9!important;
+}
+#board .list-card-details:hover {
+  background: #f9f9f9!important;
+}
+#board .list-card-operation {
+  background-color:transparent!important;
+}
+#board .list-card-operation:hover {
+  background-color:transparent!important;
+}
+#board .active-card:hover {
+  background-color:#f9f9f9!important;
+}
+#board .card-label {
+  color:#fff!important;
+}
+body .window {
+  background-color: #ffffff!important;
+}
 body .button-link {
-    background: #f9f9f9!important;
-    box-shadow: none!important;
+  background: #f9f9f9!important;
+  box-shadow: none!important;
 }
-
 .button.primary, button.primary, input[type=button].primary, input[type=submit].primary {
-	background: #ececec!important;
-	box-shadow: 0 0 0!important;
+  background: #ececec!important;
+  box-shadow: 0 0 0!important;
 }
-
 .button.primary:hover, button.primary:focus, button.primary:hover, input[type=button].primary:focus, input[type=button].primary:hover, input[type=submit].primary:focus, input[type=submit].primary:hover {
-	background: #dedede!important;
+  background: #dedede!important;
 }
-
-.button, button, input[type=button], input[type=submit] {vox-shadow: 0 0 0!important;}
-
-#board .mod-card-detail {color: #fff!important;}
-#board .js-list:nth-child(4) .list-cards {opacity: 0.2!important;}
-
-
-.button.negate, button.negate, input[type=button].negate, input[type=submit].negate {color: #fff!important;}
-
-.card-label.mod-selectable, .card-label.mod-card-detail {color: #fff!important;}
-
-.button, button:not(.js-dpicker-cal *), input[type=button]:not(.js-dpicker-cal *), input[type=submit] {color: #fff!important;}
+.button, button, input[type=button], input[type=submit] {
+  box-shadow: 0 0 0!important;
+}
+#board .mod-card-detail {
+  color: #fff!important;
+}
+#board .js-list:nth-child(4) .list-cards {
+  opacity: 0.2!important;
+}
+.button.negate, button.negate, input[type=button].negate, input[type=submit].negate {
+  color: #fff!important;
+}
+.card-label.mod-selectable, .card-label.mod-card-detail {
+  color: #fff!important;
+}
+.button, button:not(.js-dpicker-cal), input[type=button]:not(.js-dpicker-cal), input[type=submit] {
+  color: #fff!important;
+}
