@@ -1,14 +1,14 @@
 body * {
-	color:#444!important;
-	font-weight: normal!important;
+  color:#444!important;
+  font-weight: normal!important;
 }
 
 body .body-board-view {background: #fff!important;}
 
 .body-board-view #header {
-	background: #fbfbfb!important;
-	border-top: 1px solid #fff!important;
-	box-shadow: 0 0 0!important;
+  background: #fbfbfb!important;
+  border-top: 1px solid #fff!important;
+  box-shadow: 0 0 0!important;
 }
 
 body .header-btn {background: transparent!important;}
@@ -16,8 +16,8 @@ body .board-header-btn:not(.no-edit):hover {background: #f7f7f7!important;}
 
 
 #board .list-wrapper {
-	width: 24.8%;!important;
-	margin: 0 1px!important;
+  width: 24.8%;!important;
+  margin: 0 1px!important;
 }
 
 body input[type=text].header-search-input {background-color: #fafafa!important;}
@@ -28,25 +28,25 @@ body .header-logo-default {background-image: none!important;}
 #board .list {background: #ffffff!important;}
 #board .list-card-title {color: #000!important;}
 #board .list-card {
-	background-color:#fbfbfb!important;
-	max-width: 100%!important;
-	border-bottom: 1px solid #dadada!important;
+  background-color:#fbfbfb!important;
+  max-width: 100%!important;
+  border-bottom: 1px solid #dadada!important;
 }
 #board .list-header textarea {
-	text-align:center!important;
-	color: #444!important;
+  text-align:center!important;
+  color: #444!important;
 }
 
 #board .open-card-composer {
-	margin: 10px auto 0!important;
-	border-radius:none!important;
-	max-width: auto!important;
-	opacity: 0.3!important;
+  margin: 10px auto 0!important;
+  border-radius:none!important;
+  max-width: auto!important;
+  opacity: 0.3!important;
 }
 
 .distinct-list .open-card-composer {
-	box-shadow: 0 0 0!important;
-	text-align: center!important;
+    box-shadow: 0 0 0!important;
+    text-align: center!important;
 }
 
 
@@ -55,12 +55,13 @@ body .header-logo-default {background-image: none!important;}
 #board .list-card-operation {background-color:transparent!important;}
 #board .list-card-operation:hover {background-color:transparent!important;}
 #board .active-card:hover {background-color:#f9f9f9!important;}
+#board .card-label {color:#fff!important;}
 
 body .window {background-color: #ffffff!important;}
 
 body .button-link {
-	background: #f9f9f9!important;
-	box-shadow: none!important;
+    background: #f9f9f9!important;
+    box-shadow: none!important;
 }
 
 .button.primary, button.primary, input[type=button].primary, input[type=submit].primary {
