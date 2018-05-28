@@ -82,4 +82,4 @@ body .button-link {
 
 .card-label.mod-selectable, .card-label.mod-card-detail {color: #fff!important;}
 
-.button, button, input[type=button], input[type=submit] {color: #fff!important;}
+.button, button:not(.js-dpicker-cal *), input[type=button]:not(.js-dpicker-cal *), input[type=submit] {color: #fff!important;}
