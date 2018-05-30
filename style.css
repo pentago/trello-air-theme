@@ -116,8 +116,22 @@ body .button-link {
   color:#fff!important;
 }
 
+#board .is-due-complete span.badge-icon,
+#board .is-due-complete span.badge-text {
+  color: #fff!important;
+}
+
+.card-detail-due-date-text,
+.card-detail-badge-due-date-complete-icon {
+  color: #fff!important;
+}
+
 .card-label.mod-selectable,
 .card-label.mod-card-detail {
+  color: #fff!important;
+}
+
+.quick-card-editor-buttons a span {
   color: #fff!important;
 }
 
@@ -173,8 +187,4 @@ button:not(.js-dpicker-cal.pika-button),
 input[type=button]:not(.js-dpicker-cal.pika-button),
 input[type=submit] {
   color: #fff!important;
-}
-
-.button-link .on {
-  background-color: #a8ef9a;
 }
