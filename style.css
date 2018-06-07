@@ -119,7 +119,9 @@ body .button-link {
 #board .is-due-complete span.badge-icon,
 #board .is-due-complete span.badge-text,
 #board .is-due-now span.badge-icon,
-#board .is-due-now span.badge-text{
+#board .is-due-now span.badge-text,
+#board .is-due-past span.badge-icon,
+#board .is-due-past span.badge-text {
   color: #fff!important;
 }
 
