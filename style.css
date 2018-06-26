@@ -52,6 +52,10 @@ body .button-link {
   margin: 0 1px!important;
 }
 
+#board .mod-add {
+	display: none!important;
+}
+
 #board .distinct-add-list {
   display:none!important;
 }
